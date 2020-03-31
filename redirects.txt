@@ -45,3 +45,4 @@ sales/ebay/manage.rst sales/ebay_connector/manage.rst           # ebay/* moved t
 accounting/localizations/nederlands.rst accounting/localizations/netherlands.rst  # (#514)
 
 sales/send_quotations/optional_items.rst sales/send_quotations/optional_products.rst (#533)
+accounting/bank/reconciliation/configure.rst accounting/bank/reconciliation/reconciliation_models.rst   # configure -> reconciliation_models (#613)
